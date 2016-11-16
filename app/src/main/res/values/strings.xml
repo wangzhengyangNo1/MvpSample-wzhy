@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MvpSample-wzhy</string>
+
+    <string name="id">ID:</string>
+    <string name="save">存</string>
+    <string name="load">读</string>
+    <string name="first_name">FirstName:</string>
+    <string name="last_name">LastName:</string>
 </resources>
